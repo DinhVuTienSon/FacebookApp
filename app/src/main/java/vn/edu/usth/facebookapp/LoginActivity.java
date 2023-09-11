@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
             if (ed1.getText().toString().equals("admin") &&
                 ed2.getText().toString().equals("admin")) {
                     Toast.makeText(getApplicationContext(),
-                            "Loging in...", Toast.LENGTH_SHORT.show();
+                            "Logging in...", Toast.LENGTH_SHORT.show();
             } else {
                 Toast.makeText(getApplicationContext(),
                         "Login Failed", Toast.LENGTH_SHORT.show();
