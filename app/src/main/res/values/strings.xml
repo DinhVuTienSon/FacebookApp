@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FacebookApp</string>
+    <string name="facebook">Facebook</string>
+    <string name="user">Username</string>
+    <string name="pwd">Password</string>
+    <string name="attempts">Attempts</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="logodes">Facebook logo</string>
+
 </resources>
